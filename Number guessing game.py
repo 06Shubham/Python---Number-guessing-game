@@ -14,6 +14,7 @@ while chance > 0:
 
     else:
         print("You have guess the correct number!!!")
+        print(f"The random number is {ram_no}")
         print("You have won the game!!!!!!!")
         break
 
