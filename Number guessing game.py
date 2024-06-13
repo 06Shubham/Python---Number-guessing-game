@@ -2,8 +2,6 @@ import random
 
 ram_no = random.randrange(1, 101)
 
-print(ram_no)
-
 chance = 5
 
 while chance > 0:
